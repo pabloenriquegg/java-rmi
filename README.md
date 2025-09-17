@@ -37,7 +37,7 @@ Implementación de distintos servicios distribuidos en Java mediante **Remote Me
     java client.PrimeRMIClient
 
 
-Objetivos
+## Objetivos
 
 Comprender el funcionamiento de Java RMI en sistemas distribuidos.
 
@@ -45,6 +45,6 @@ Desarrollar clientes y servidores que interactúan mediante invocación remota d
 
 Experimentar con persistencia ligera y librerías externas (Jsoup).
 
-Autor
+## Autor
 
 Pablo Enrique Guntín Garrido
