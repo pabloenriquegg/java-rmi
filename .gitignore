@@ -1,0 +1,30 @@
+
+---
+
+## .gitignore (Java)
+
+```gitignore
+# Archivos compilados
+*.class
+
+# Archivos empaquetados
+*.jar
+
+# Logs
+*.log
+
+# Archivos temporales
+*.tmp
+*.bak
+*.swp
+
+# Configuración IDE
+.vscode/
+.idea/
+*.iml
+out/
+bin/
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
